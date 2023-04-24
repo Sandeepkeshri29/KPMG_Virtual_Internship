@@ -2,5 +2,4 @@
 # KPMG_Virtual_Internship
 Data Analytics Consulting Virtual Internship
 
-
-https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_wu6H2SzbwpPEwjn44_1682176486373_completion_certificate.pdf
+![Certificate](https://user-images.githubusercontent.com/113277152/233933711-fb05c9e9-88db-4c1d-be60-bed760f03470.png)
