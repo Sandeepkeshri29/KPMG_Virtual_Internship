@@ -3,5 +3,4 @@
 Data Analytics Consulting Virtual Internship
 
 
-[KPMG Data Analytics Certificate.pdf]
-(https://github.com/Sandeepkeshri29/KPMG_Virtual_Internship/files/11307840/KPMG.Data.Analytics.Certificate.pdf)
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_wu6H2SzbwpPEwjn44_1682176486373_completion_certificate.pdf
